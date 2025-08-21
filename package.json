@@ -1,0 +1,19 @@
+{
+  "name": "backendlearning",
+  "version": "1.0.0",
+  "description": "this project is my 1st bankend project ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "project"
+  ],
+  "author": "vidhi talegaonkar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
+}
