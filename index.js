@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
   res.send('Hello World!')
 })
 
-app.get('/login', (req,res)=>{
+app.get('/newroute', (req,res)=>{
     res.send("login dun is working")
 })
 
